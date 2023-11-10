@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the setup guide for the [Your Project Name] Laravel project. This guide will help you get the project up and running on your local machine.
+Welcome to the setup guide for the doctor patient app. This guide will help you get the project up and running on your local machine.
 
 ## Prerequisites
 
